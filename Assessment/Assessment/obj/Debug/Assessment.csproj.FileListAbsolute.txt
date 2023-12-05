@@ -1,0 +1,66 @@
+C:\Users\IT\Desktop\Code\Assessment\Assessment\bin\Debug\Assessment.exe.config
+C:\Users\IT\Desktop\Code\Assessment\Assessment\bin\Debug\Assessment.exe
+C:\Users\IT\Desktop\Code\Assessment\Assessment\bin\Debug\Assessment.pdb
+C:\Users\IT\Desktop\Code\Assessment\Assessment\obj\Debug\Assessment.csproj.AssemblyReference.cache
+C:\Users\IT\Desktop\Code\Assessment\Assessment\obj\Debug\Assessment.csproj.SuggestedBindingRedirects.cache
+C:\Users\IT\Desktop\Code\Assessment\Assessment\obj\Debug\MainWindow.g.cs
+C:\Users\IT\Desktop\Code\Assessment\Assessment\obj\Debug\Sign_in.g.cs
+C:\Users\IT\Desktop\Code\Assessment\Assessment\obj\Debug\App.g.cs
+C:\Users\IT\Desktop\Code\Assessment\Assessment\obj\Debug\Assessment_MarkupCompile.cache
+C:\Users\IT\Desktop\Code\Assessment\Assessment\obj\Debug\Assessment_MarkupCompile.lref
+C:\Users\IT\Desktop\Code\Assessment\Assessment\obj\Debug\App.baml
+C:\Users\IT\Desktop\Code\Assessment\Assessment\obj\Debug\MainWindow.baml
+C:\Users\IT\Desktop\Code\Assessment\Assessment\obj\Debug\Sign_in.baml
+C:\Users\IT\Desktop\Code\Assessment\Assessment\obj\Debug\Assessment.g.resources
+C:\Users\IT\Desktop\Code\Assessment\Assessment\obj\Debug\Assessment.Properties.Resources.resources
+C:\Users\IT\Desktop\Code\Assessment\Assessment\obj\Debug\Assessment.csproj.GenerateResource.cache
+C:\Users\IT\Desktop\Code\Assessment\Assessment\obj\Debug\Assessment.csproj.CoreCompileInputs.cache
+C:\Users\IT\Desktop\Code\Assessment\Assessment\obj\Debug\Assessment.exe
+C:\Users\IT\Desktop\Code\Assessment\Assessment\obj\Debug\Assessment.pdb
+C:\Users\IT\Desktop\Code\Assessment\Assessment\obj\Debug\Forget_Password.g.cs
+C:\Users\IT\Desktop\Code\Assessment\Assessment\obj\Debug\Profile_page.g.cs
+C:\Users\IT\Desktop\Code\Assessment\Assessment\obj\Debug\Sign_Up.g.cs
+C:\Users\IT\Desktop\Code\Assessment\Assessment\obj\Debug\Forget_Password.baml
+C:\Users\IT\Desktop\Code\Assessment\Assessment\obj\Debug\Profile_page.baml
+C:\Users\IT\Desktop\Code\Assessment\Assessment\obj\Debug\Sign_Up.baml
+C:\Users\IT\Desktop\Code\Assessment\Assessment\bin\Debug\EntityFramework.dll
+C:\Users\IT\Desktop\Code\Assessment\Assessment\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\IT\Desktop\Code\Assessment\Assessment\bin\Debug\EntityFramework.xml
+C:\Users\IT\Desktop\Code\Assessment\Assessment\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\IT\Desktop\Code\Assessment\Assessment\obj\Debug\Assessment_Content.g.cs
+C:\Users\IT\Desktop\Code\Assessment\Assessment\obj\Debug\Assessment.csproj.CopyComplete
+C:\Users\IT\Downloads\Hassan Mohamed W1\Assessment\Assessment\bin\Debug\Assessment.exe.config
+C:\Users\IT\Downloads\Hassan Mohamed W1\Assessment\Assessment\bin\Debug\Assessment.exe
+C:\Users\IT\Downloads\Hassan Mohamed W1\Assessment\Assessment\bin\Debug\Assessment.pdb
+C:\Users\IT\Downloads\Hassan Mohamed W1\Assessment\Assessment\bin\Debug\EntityFramework.dll
+C:\Users\IT\Downloads\Hassan Mohamed W1\Assessment\Assessment\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\IT\Downloads\Hassan Mohamed W1\Assessment\Assessment\bin\Debug\EntityFramework.xml
+C:\Users\IT\Downloads\Hassan Mohamed W1\Assessment\Assessment\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\IT\Downloads\Hassan Mohamed W1\Assessment\Assessment\obj\Debug\Assessment.csproj.AssemblyReference.cache
+C:\Users\IT\Downloads\Hassan Mohamed W1\Assessment\Assessment\obj\Debug\Assessment.csproj.SuggestedBindingRedirects.cache
+C:\Users\IT\Downloads\Hassan Mohamed W1\Assessment\Assessment\obj\Debug\Delete_AdminPage.g.cs
+C:\Users\IT\Downloads\Hassan Mohamed W1\Assessment\Assessment\obj\Debug\Forget_Password.g.cs
+C:\Users\IT\Downloads\Hassan Mohamed W1\Assessment\Assessment\obj\Debug\MainWindow.g.cs
+C:\Users\IT\Downloads\Hassan Mohamed W1\Assessment\Assessment\obj\Debug\Profile_page.g.cs
+C:\Users\IT\Downloads\Hassan Mohamed W1\Assessment\Assessment\obj\Debug\Searsh_page.g.cs
+C:\Users\IT\Downloads\Hassan Mohamed W1\Assessment\Assessment\obj\Debug\Sign_in.g.cs
+C:\Users\IT\Downloads\Hassan Mohamed W1\Assessment\Assessment\obj\Debug\Sign_Up.g.cs
+C:\Users\IT\Downloads\Hassan Mohamed W1\Assessment\Assessment\obj\Debug\App.g.cs
+C:\Users\IT\Downloads\Hassan Mohamed W1\Assessment\Assessment\obj\Debug\Assessment_Content.g.cs
+C:\Users\IT\Downloads\Hassan Mohamed W1\Assessment\Assessment\obj\Debug\Assessment_MarkupCompile.cache
+C:\Users\IT\Downloads\Hassan Mohamed W1\Assessment\Assessment\obj\Debug\Assessment_MarkupCompile.lref
+C:\Users\IT\Downloads\Hassan Mohamed W1\Assessment\Assessment\obj\Debug\App.baml
+C:\Users\IT\Downloads\Hassan Mohamed W1\Assessment\Assessment\obj\Debug\Delete_AdminPage.baml
+C:\Users\IT\Downloads\Hassan Mohamed W1\Assessment\Assessment\obj\Debug\Forget_Password.baml
+C:\Users\IT\Downloads\Hassan Mohamed W1\Assessment\Assessment\obj\Debug\MainWindow.baml
+C:\Users\IT\Downloads\Hassan Mohamed W1\Assessment\Assessment\obj\Debug\Profile_page.baml
+C:\Users\IT\Downloads\Hassan Mohamed W1\Assessment\Assessment\obj\Debug\Searsh_page.baml
+C:\Users\IT\Downloads\Hassan Mohamed W1\Assessment\Assessment\obj\Debug\Sign_in.baml
+C:\Users\IT\Downloads\Hassan Mohamed W1\Assessment\Assessment\obj\Debug\Sign_Up.baml
+C:\Users\IT\Downloads\Hassan Mohamed W1\Assessment\Assessment\obj\Debug\Assessment.g.resources
+C:\Users\IT\Downloads\Hassan Mohamed W1\Assessment\Assessment\obj\Debug\Assessment.Properties.Resources.resources
+C:\Users\IT\Downloads\Hassan Mohamed W1\Assessment\Assessment\obj\Debug\Assessment.csproj.GenerateResource.cache
+C:\Users\IT\Downloads\Hassan Mohamed W1\Assessment\Assessment\obj\Debug\Assessment.csproj.CoreCompileInputs.cache
+C:\Users\IT\Downloads\Hassan Mohamed W1\Assessment\Assessment\obj\Debug\Assessment.csproj.CopyComplete
+C:\Users\IT\Downloads\Hassan Mohamed W1\Assessment\Assessment\obj\Debug\Assessment.exe
+C:\Users\IT\Downloads\Hassan Mohamed W1\Assessment\Assessment\obj\Debug\Assessment.pdb

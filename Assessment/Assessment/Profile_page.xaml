@@ -1,0 +1,27 @@
+﻿<Page x:Class="Assessment.Profile_page"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Assessment"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="Profile_page">
+
+    <Grid Background="Bisque" >
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="81*"/>
+            <ColumnDefinition Width="79*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="131*"/>
+            <RowDefinition Height="319*"/>
+        </Grid.RowDefinitions>
+        <Image HorizontalAlignment="Left" Height="56" Margin="218,0,0,0" VerticalAlignment="Center" Width="100" Source="/the moon.jpg"/>
+        <Label  x:Name="Profile_" Content="Profile" HorizontalAlignment="Left" Margin="25,0,0,0" VerticalAlignment="Center" FontSize="50" FontWeight="Bold" Grid.Column="1"/>
+        <Button Style="{StaticResource buttonstyle}" Content="Log Out" HorizontalAlignment="Left" Margin="127,72,0,0" VerticalAlignment="Top" Click="Button_Click" Grid.Row="1" Grid.Column="1"/>
+        <Label x:Name="User_name" Content="" HorizontalAlignment="Left" Margin="296,19,0,0" VerticalAlignment="Top" Grid.Row="1"/>
+        <DataGrid x:Name="dg_name" Grid.Row="1"  Margin="35,19,5,80"/>
+
+    </Grid>
+</Page>
